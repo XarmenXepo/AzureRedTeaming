@@ -1,1 +1,9 @@
-This repo contains some notes about tooling and processes for performing the Illicit Consent Grant Attack in an Azure cloud environment
+This repo contains some notes about 3rd party tooling for performing the Illicit Consent Grant Attack in an Azure cloud environment
+
+Tools needed:
+
+For generating a phishing link to obtain user token & to upload malicious files to OneDrive.
+https://github.com/AlteredSecurity/365-Stealer
+
+For enumerating Azure tenant to find subdomains that host emails.
+https://github.com/NetSPI/MicroBurst
