@@ -7,3 +7,6 @@ https://github.com/AlteredSecurity/365-Stealer
 
 For enumerating Azure tenant to find subdomains that host emails.
 https://github.com/NetSPI/MicroBurst
+
+Invoke-PowerShellTcp.ps1
+https://github.com/samratashok/nishang/blob/master/Shells/Invoke-PowerShellTcp.ps1
